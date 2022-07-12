@@ -1,35 +1,97 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+  "suggestion": [
+    {
+      "term": "elit",
+      "url": "https://google.com"
     },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+    {
+      "term": "consectetur",
+      "url": "https://google.com"
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
+    {
+      "term": "excepteur",
+      "url": "https://google.com"
     },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
+    {
+      "term": "nulla",
+      "url": "https://google.com"
     },
-    "isDraft": {
-      "boolean": {}
+    {
+      "term": "cupidatat",
+      "url": "https://google.com"
     },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
+    {
+      "term": "labore",
+      "url": "https://google.com"
     }
-  }
+  ],
+  "collection": [
+    {
+      "id": "62ccf3f48e27ab1306529284",
+      "title": "ad",
+      "url": "https://google.com"
+    },
+    {
+      "id": "62ccf3f46389dcd8080c61f7",
+      "title": "elit",
+      "url": "https://google.com"
+    },
+    {
+      "id": "62ccf3f4efbde27f08ea224c",
+      "title": "laborum",
+      "url": "https://google.com"
+    },
+    {
+      "id": "62ccf3f4a3448f87aba01efb",
+      "title": "incididunt",
+      "url": "https://google.com"
+    },
+    {
+      "id": "62ccf3f486fc8d1224849bab",
+      "title": "aliquip",
+      "url": "https://google.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "62ccf3f4b806b7be9ca275b8",
+      "title": "duis",
+      "url": "https://google.com",
+      "brand": "officia",
+      "price": "$2,160.32",
+      "image": "http://placehold.it/32x32"
+    },
+    {
+      "id": "62ccf3f46925b7b3ab66341d",
+      "title": "labore",
+      "url": "https://google.com",
+      "brand": "velit",
+      "price": "$3,100.01",
+      "image": "http://placehold.it/32x32"
+    },
+    {
+      "id": "62ccf3f4c1bc64fbea0f2354",
+      "title": "est",
+      "url": "https://google.com",
+      "brand": "do",
+      "price": "$2,790.75",
+      "image": "http://placehold.it/32x32"
+    },
+    {
+      "id": "62ccf3f4af53c4f5d5ed0822",
+      "title": "laboris",
+      "url": "https://google.com",
+      "brand": "dolor",
+      "price": "$2,997.96",
+      "image": "http://placehold.it/32x32"
+    },
+    {
+      "id": "62ccf3f4540856dead7be356",
+      "title": "dolor",
+      "url": "https://google.com",
+      "brand": "amet",
+      "price": "$3,510.21",
+      "image": "http://placehold.it/32x32"
+    }
+  ]
 }
