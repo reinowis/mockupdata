@@ -1,5 +1,5 @@
 {
-    "suggestion": [
+    "term": [
       {
         "term": "elit",
         "url": "https://google.com"
@@ -52,7 +52,7 @@
         "url": "https://google.com"
       }
     ],
-    "products": [
+    "product": [
       {
         "id": "62ccf3f4b806b7be9ca275b8",
         "title": "duis",
